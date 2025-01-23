@@ -1,0 +1,59 @@
+@media screen and (max-width: 1024px) and (min-width: 660px) {
+    /* middle part styling */
+    .hamza-img{
+        height: 550px;
+        width: 250px;
+    }
+    .lorem {
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(70, 69, 69);
+        width: 371px;
+    }
+    .child-of-middle-part{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+    }
+    /* about part styling */
+    .about-img {
+        height: 731px;
+        width: 490px;
+        border: 2px solid #000;
+    }
+    .title-10 {
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        height: 0px;
+        margin-top: 87px;
+    }
+    .arr1{
+        gap: 5px;
+    }
+    /* service part styling */
+    .main-ser-text {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: auto;
+        gap: 50px;
+    }
+    /* portfolio part styling */
+    .lorem2{
+        line-height: 23px;
+    }
+    .img-goj-1{
+        left: 95px;
+    }
+    .child-of-middle-part{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        gap: 70px;
+    }
+    
+    .img-goj{
+        left: 125px;
+    }
+
+}
